@@ -1,0 +1,81 @@
+.app-container {
+  background-color: black;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-container {
+  margin: 50px 50px;
+  background-color: #272727;
+  padding: 30px;
+  height: 430px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
+  align-content: center;
+}
+
+.website-logo {
+  width: 140px;
+  height: 45px;
+  align-self: center;
+  margin-bottom: 30px;
+}
+
+.input-container {
+  height: 70px;
+  width: 300px;
+  margin: 13px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.password-input-field {
+  padding: 5px;
+  font-size: 15px;
+  background: transparent;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding-left: 10px;
+  color: white;
+}
+
+.input-label {
+  color: white;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.login-button {
+  font-size: 15px;
+  height: 30px;
+  margin: 15px;
+  padding: 7px;
+  width: 280px;
+  border-radius: 5px;
+  border: none;
+  background-color: #6366f1;
+  color: white;
+}
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.error-msg {
+  color: #ff0b37;
+  font-size: 13px;
+  margin-top: 0px;
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 20px;
+}

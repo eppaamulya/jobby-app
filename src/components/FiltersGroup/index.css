@@ -1,0 +1,30 @@
+.label-text {
+  color: #7e858e;
+  margin-left: 10px;
+  font-size: 16px;
+}
+
+.filter-list {
+  margin-top: 10px;
+}
+
+.salary-heading {
+  color: white;
+}
+.employment-heading {
+  color: white;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+
+.checkbox-input {
+  width: 14px;
+  height: 14px;
+}
+.emp-list {
+  padding-left: 0px;
+}
+
+.hr-line {
+  margin-top: 30px;
+}

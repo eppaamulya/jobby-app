@@ -1,0 +1,68 @@
+.container-9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.job-bg-container-1 {
+  background-color: black;
+  padding-bottom: 50px;
+  background-size: cover;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container-10 {
+  display: flex;
+  flex-direction: row;
+}
+
+.link-el {
+  font-size: 15px;
+  color: #4f46e5;
+  margin-top: 17px;
+  margin-left: 7px;
+}
+.white-text-2 {
+  color: #4f46e5;
+}
+
+.container-11 {
+}
+
+.life-1 {
+  font-size: 19px;
+  font-weight: 500;
+}
+
+.life-para {
+  font-size: 15px;
+  font-weight: 400;
+  margin-right: 20px;
+}
+
+.skill {
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 30px;
+}
+
+.skill-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: 0px;
+  justify-content: space-between;
+}
+
+.sim-head {
+  font-size: 25px;
+  margin-left: 30px;
+}
+
+.similar-unlisted {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

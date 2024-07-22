@@ -1,0 +1,114 @@
+.white-text {
+  color: white;
+}
+
+.jobs-list {
+  background-color: #272727;
+  padding: 30px;
+  margin: 30px;
+  border-radius: 10px;
+}
+.star {
+  color: #fbbf24;
+  font-size: 20px;
+}
+
+.location {
+  color: white;
+  font-size: 20px;
+}
+
+.bag {
+  color: white;
+  font-size: 19px;
+  margin-left: 30px;
+}
+.company-logo {
+  width: 70px;
+  height: 70px;
+}
+
+.container-2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.container-3 {
+  display: flex;
+  flex-direction: row;
+}
+
+.container-4 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  margin-top: -3px;
+}
+
+.container-5 {
+  display: flex;
+  flex-direction: row;
+  margin-top: -2px;
+}
+
+.container-6 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+
+.container-7 {
+  display: flex;
+  flex-direction: row;
+}
+
+.container-9 {
+  display: flex;
+  flex-direction: row;
+}
+
+.container-8 {
+  display: flex;
+  flex-direction: row;
+}
+
+.para-card-1 {
+  margin-top: 5px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.para-card-2 {
+  margin-top: 0px;
+  margin-left: 10px;
+  font-size: 17px;
+}
+
+.para-card-3 {
+  margin-top: 1px;
+  margin-left: 10px;
+  font-size: 15px;
+}
+
+.para-card-4 {
+  margin-top: 1px;
+  margin-left: 10px;
+  font-size: 15px;
+}
+
+.para-card-5 {
+  align-items: flex-end;
+  text-align: right;
+  margin-top: 0px;
+  font-size: 17px;
+}
+
+.para-card-6 {
+  font-size: 21px;
+  font-weight: 500;
+}
+
+.para-card-7 {
+  font-size: 15px;
+}

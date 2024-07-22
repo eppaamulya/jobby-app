@@ -1,0 +1,18 @@
+.skill-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  margin-left: 0px;
+  margin-right: 60px;
+  margin-bottom: 40px;
+  margin-top: 30px;
+}
+
+.skill-img {
+  width: 40px;
+  height: 40px;
+}
+.skill-name {
+  margin-left: 10px;
+  margin-top: 10px;
+}
